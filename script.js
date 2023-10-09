@@ -24,4 +24,9 @@ if (value == 0) {
 } else if (value >0) {
     console.log('Число положительое')
 }
+// Задание - 5
+console.log('Задание-5')
 
+let text2 = prompt()
+alert(Math.ceil(text2/4))
+// Math.ceil(/4) 
